@@ -12,7 +12,6 @@ var {
 var safeHtml = require('safe-html');
 var _ = require('underscore');
 
-
 var _HTMLWebView = React.createClass({
   propTypes: {
     html: PropTypes.string,

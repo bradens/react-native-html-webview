@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/almost/react-native-html-webview",
   "peerDepenencies": {
-    "react-native": "^0.4.4"
+    "react-native": "^0.4.4 | >=0.8.0"
   },
   "dependencies": {
-    "safe-html": "0.0.5"
+    "safe-html": "0.0.5",
+    "underscore": "^1.8.3"
   }
 }
